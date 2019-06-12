@@ -20,12 +20,24 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_3966B84F:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_685CEA05:
         m_Texture: {fileID: 2800000, guid: d8863d078fb0d1a4289b61870421962d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_A1C04B01:
         m_Texture: {fileID: 2800000, guid: ecb23393a0d1b424a82fff68a4c00a66, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A606E10B:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FA2828B4:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -68,6 +80,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_36B5E33E_Texture:
+        m_Texture: {fileID: 2800000, guid: d8863d078fb0d1a4289b61870421962d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -75,8 +91,12 @@ Material:
     m_Floats:
     - Vector1_4EB70A24: 4
     - Vector1_54F2CFF2: -9.8
+    - Vector1_598E7214: 0
     - Vector1_8188471A: 1
+    - Vector1_D913E7CE: 1
     - Vector1_DB700393: 4.2
+    - Vector1_E9954BE7: 0
+    - Vector1_F46C4700: 1
     - Vector1_FFFAD280: 4
     - _AlphaClip: 0
     - _Blend: 0
